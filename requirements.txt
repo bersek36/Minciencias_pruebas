@@ -1,0 +1,5 @@
+tensorflow
+nibabel
+numpy
+matplotlib
+sklearn

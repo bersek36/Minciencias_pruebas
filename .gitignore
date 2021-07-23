@@ -1,4 +1,11 @@
 /__pycache__
-/A00028185
 /preprocess/__pycache__
-/train_sub_volumes
+/NFBS_Dataset
+/assets
+/minciencias_env
+/preprocess/__pycache__
+/processed
+/variables
+example_1.py
+keras_metadata.pb
+/saved_model.pb
