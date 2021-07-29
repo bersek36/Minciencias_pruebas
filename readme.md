@@ -4,4 +4,5 @@ Instrucciones:
 -NFBS_Dataset
     -Directorio de cada paciente
     -Directorio de cada paciente
+    
 2) Correr ejemplos.ipynb
